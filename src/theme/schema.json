@@ -1,0 +1,13 @@
+{
+  "data": {
+    "light": {
+      "mainBg": "#ffffff",
+      "color1": "#eee",
+      "color2": "#333"
+    },
+    "dark": {
+      "mainBg": "#080a0e",
+      "color1": "#3faeb4"
+    }
+  }
+}
